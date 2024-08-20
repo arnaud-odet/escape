@@ -1,6 +1,6 @@
 sudoku
 secret_mail/credentials.py
-
+secret_mail/coordinates.py
 
 ## From GitHub python .gitignore template
 
