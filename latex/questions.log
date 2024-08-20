@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.20)  12 MAR 2024 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.20)  16 MAR 2024 14:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/admin/code/arnaud-odet/2_projets/escape/latex/main.tex
-(/home/admin/code/arnaud-odet/2_projets/escape/latex/main.tex
+**/home/admin/code/arnaud-odet/2_projets/escape/latex/questions.tex
+(/home/admin/code/arnaud-odet/2_projets/escape/latex/questions.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -230,8 +230,8 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count289
 \l__pdf_internal_box=\box53
-) (./main.aux)
-\openout1 = `main.aux'.
+) (./questions.aux)
+\openout1 = `questions.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -324,37 +324,32 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Info: Redefining \degres on input line 33.
 LaTeX Info: Redefining \up on input line 33.
+<alcane.png, id=1, 450.68375pt x 680.5425pt>
+File: alcane.png Graphic file (type png)
+<use alcane.png>
+Package pdftex.def Info: alcane.png  used on input line 86.
+(pdftex.def)             Requested size: 256.0878pt x 284.52786pt.
+ [1
 
-Overfull \hbox (8.26814pt too wide) in paragraph at lines 44--45
-[]\T1/cmr/m/n/12 Tourner à 3h et conti-nuer jus-qu'à une route évo-quant l'au-teur de quelque chose "Brillant".
- []
-
-[1
-
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] [3]
-Overfull \hbox (1.97473pt too wide) in paragraph at lines 163--164
-\T1/cmr/m/n/12 RUBILACXE RE-VUORT ES ED EL-BIT-PEC-SUS TSE UO AL RE-VUOR-TER SUOV TCAT-
- []
-
-[4] [5] [6] [7] [8] (./main.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2 <./alcane.png>] [3] [4] (./questions.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5792 strings out of 474175
- 92897 string characters out of 5745668
- 1932457 words of memory out of 5000000
- 28025 multiletter control sequences out of 15000+600000
- 563240 words of font info for 44 fonts, out of 8000000 for 9000
+ 5807 strings out of 474175
+ 93131 string characters out of 5745668
+ 1933457 words of memory out of 5000000
+ 28036 multiletter control sequences out of 15000+600000
+ 563718 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,6n,69p,659b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (8 pages, 113180 bytes).
+ 61i,5n,69p,401b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on questions.pdf (4 pages, 229914 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
